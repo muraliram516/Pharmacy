@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/muraliram516/Pharmacy.git/static/css/main.f96f07a4.css",
-    "main.js": "/muraliram516/Pharmacy.git/static/js/main.bed71e70.js",
-    "static/js/787.e4c8e6d4.chunk.js": "/muraliram516/Pharmacy.git/static/js/787.e4c8e6d4.chunk.js",
-    "index.html": "/muraliram516/Pharmacy.git/index.html",
-    "main.f96f07a4.css.map": "/muraliram516/Pharmacy.git/static/css/main.f96f07a4.css.map",
-    "main.bed71e70.js.map": "/muraliram516/Pharmacy.git/static/js/main.bed71e70.js.map",
-    "787.e4c8e6d4.chunk.js.map": "/muraliram516/Pharmacy.git/static/js/787.e4c8e6d4.chunk.js.map"
+    "main.css": "/Pharmacy/static/css/main.f96f07a4.css",
+    "main.js": "/Pharmacy/static/js/main.0f66bafc.js",
+    "static/js/787.e4c8e6d4.chunk.js": "/Pharmacy/static/js/787.e4c8e6d4.chunk.js",
+    "index.html": "/Pharmacy/index.html",
+    "main.f96f07a4.css.map": "/Pharmacy/static/css/main.f96f07a4.css.map",
+    "main.0f66bafc.js.map": "/Pharmacy/static/js/main.0f66bafc.js.map",
+    "787.e4c8e6d4.chunk.js.map": "/Pharmacy/static/js/787.e4c8e6d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f96f07a4.css",
-    "static/js/main.bed71e70.js"
+    "static/js/main.0f66bafc.js"
   ]
 }
